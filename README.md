@@ -5,7 +5,7 @@ Turn any topic into a sourced research report. The app searches the web, reads t
 
 Built with Python, LangChain, Streamlit, Tavily and Groq.
 
-![App demo](docs/demo.png).
+![App demo](demo.png).
 
 ## How it works
 
